@@ -1,6 +1,6 @@
 .hero-sobre{
     background: url("https://picsum.photos/1600/500?grayscale" ) center/cover no-repeat;
-    min-height: 50vh;
+    min-height: 60vh;
     display: flex;
     align-items: center;
     color: #ffff;
